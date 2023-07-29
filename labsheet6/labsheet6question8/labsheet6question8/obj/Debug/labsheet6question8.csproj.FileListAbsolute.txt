@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\labsheet6question8\labsheet6question8\bin\Debug\labsheet6question8.exe.config
+C:\Users\User\source\repos\labsheet6question8\labsheet6question8\bin\Debug\labsheet6question8.exe
+C:\Users\User\source\repos\labsheet6question8\labsheet6question8\bin\Debug\labsheet6question8.pdb
+C:\Users\User\source\repos\labsheet6question8\labsheet6question8\obj\Debug\labsheet6question8.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\labsheet6question8\labsheet6question8\obj\Debug\labsheet6question8.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\labsheet6question8\labsheet6question8\obj\Debug\labsheet6question8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\labsheet6question8\labsheet6question8\obj\Debug\labsheet6question8.exe
+C:\Users\User\source\repos\labsheet6question8\labsheet6question8\obj\Debug\labsheet6question8.pdb
