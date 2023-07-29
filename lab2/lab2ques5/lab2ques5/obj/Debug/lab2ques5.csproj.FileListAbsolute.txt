@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\lab2ques5\lab2ques5\obj\Debug\lab2ques5.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab2ques5\lab2ques5\obj\Debug\lab2ques5.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\lab2ques5\lab2ques5\obj\Debug\lab2ques5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab2ques5\lab2ques5\bin\Debug\lab2ques5.exe.config
+C:\Users\User\source\repos\lab2ques5\lab2ques5\bin\Debug\lab2ques5.exe
+C:\Users\User\source\repos\lab2ques5\lab2ques5\bin\Debug\lab2ques5.pdb
+C:\Users\User\source\repos\lab2ques5\lab2ques5\obj\Debug\lab2ques5.exe
+C:\Users\User\source\repos\lab2ques5\lab2ques5\obj\Debug\lab2ques5.pdb
