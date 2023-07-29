@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\lab 4\labsheet4question1(1)\labsheet4question1(1)\obj\Debug\labsheet4question1(1).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lab 4\labsheet4question1(1)\labsheet4question1(1)\obj\Debug\labsheet4question1(1).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\lab 4\labsheet4question1(1)\labsheet4question1(1)\obj\Debug\labsheet4question1(1).csproj.CoreCompileInputs.cache
