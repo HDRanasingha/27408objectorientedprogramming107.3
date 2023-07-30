@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\1lab1quiz\1lab1quiz\bin\Debug\1lab1quiz.exe.config
+C:\Users\User\source\repos\1lab1quiz\1lab1quiz\bin\Debug\1lab1quiz.exe
+C:\Users\User\source\repos\1lab1quiz\1lab1quiz\bin\Debug\1lab1quiz.pdb
+C:\Users\User\source\repos\1lab1quiz\1lab1quiz\obj\Debug\1lab1quiz.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\1lab1quiz\1lab1quiz\obj\Debug\1lab1quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\1lab1quiz\1lab1quiz\obj\Debug\1lab1quiz.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\1lab1quiz\1lab1quiz\obj\Debug\1lab1quiz.exe
+C:\Users\User\source\repos\1lab1quiz\1lab1quiz\obj\Debug\1lab1quiz.pdb
